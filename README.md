@@ -84,7 +84,8 @@ The results demonstrated:
 - Object detection approaches introduce additional complexity but enable localization
 - Model performance depends heavily on data quality and class balance
 
----
+Potential Impact
+This project demonstrates how AI-driven violence detection can support safer digital environments and reduce reliance on manual content review, contributing to scalable and responsible public safety systems.
 
 ## Limitations
 - Image-based classification does not capture temporal context
